@@ -1,4 +1,4 @@
-name: sammy
+name: Sammy
 favicon: null
 layout_spectrum: 0.99936
 typography_spectrum: 0.10012
@@ -25,5 +25,5 @@ color:
   brandStrength: 1
   lightness: 0.28963570250198245
   saturation: 0.4059652481228113
-  rhythmicContrast: 0.18935183016583323
+  rhythmicContrast: 0.75
 purpose: []
