@@ -2,6 +2,7 @@ name: sammy
 favicon: null
 layout_spectrum: 0.99936
 typography_spectrum: 0.10012
+title: Frog Perspective
 cta:
   domain: null
   bucket: null
